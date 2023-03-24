@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/weblab1/static/js/main.bc7f9e8f.js",
+    "index.html": "/weblab1/index.html",
+    "main.bc7f9e8f.js.map": "/weblab1/static/js/main.bc7f9e8f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bc7f9e8f.js"
+  ]
+}
