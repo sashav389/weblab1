@@ -1,6 +1,6 @@
 export function NavBar() {
     return (
-        <nav className="navbar navbar-expand-lg navbar-light bg-primary ">
+        <nav className="navbar navbar-expand-lg navbar-light bg-primary" id="navbar">
             <div className="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul className="navbar-nav mr-auto mt-1 ms-lg-4">
                     <li className="nav-item active">
@@ -25,5 +25,14 @@ export function NavBar() {
                 </ul>
             </div>
         </nav>
+    )
+}
+
+export function Notification(){
+    return(
+        <div className="alert alert-warning alert-dismissible fade show" role="alert">
+            <strong>Святой гуакамоле!</strong> Вам следует проверить некоторые из этих полей ниже.
+            <button type="button" className="btn-close" data-bs-dismiss="alert" aria-label="Закрыть"></button>
+        </div>
     )
 }

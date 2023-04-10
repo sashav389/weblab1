@@ -1,7 +1,9 @@
 import {NavBar} from "../Components";
 import logo from '../1.jpg';
+import {Users} from "./DB";
 
 export function AboutApp(){
+    console.log(Users);
     return(
         <><NavBar/>
                 <div className="row">

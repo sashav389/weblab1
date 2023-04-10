@@ -16,7 +16,8 @@ export function App() {
                 <Route path="login" element={<Login />} />
                 <Route path="profile" element={<Profile />} />
                 <Route path="blog" element={<Blog />} />
-                <Route path="*" element={<h1>Error page </h1>} />
+                {/*<Route path="*" element={<h1>Error page </h1>} />*/}
+                <Route path="*" element={<AboutApp />} />
             </Routes>
         </div>
     );
