@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/weblab1/static/js/main.4641fd32.js",
+    "main.js": "/weblab1/static/js/main.90f5d397.js",
     "index.html": "/weblab1/index.html",
-    "main.4641fd32.js.map": "/weblab1/static/js/main.4641fd32.js.map"
+    "main.90f5d397.js.map": "/weblab1/static/js/main.90f5d397.js.map"
   },
   "entrypoints": [
-    "static/js/main.4641fd32.js"
+    "static/js/main.90f5d397.js"
   ]
 }
